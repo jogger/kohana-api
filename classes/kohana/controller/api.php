@@ -1,5 +1,5 @@
 <?php
-abstract class Kohana_Controller_API extends OAuth2_Controller
+abstract class Kohana_Controller_API extends Controller
 {
 	/**
 	 * @var Object Request Payload
